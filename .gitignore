@@ -1,2 +1,4 @@
 data
 . .. .git .gitignore .idea .ipynb_checkpoints
+notebooks/.idea 
+notebooks/.ipynb_checkpoints/* 
